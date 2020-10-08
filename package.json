@@ -1,0 +1,45 @@
+{
+  "name": "estudos-gerais-js-ts",
+  "version": "1.0.0",
+  "description": "Repo para aprendizado avançado de ferramentas corporativas de back-end para NodeJS",
+  "main": "index.js",
+  "author": {
+    "name": "Danilo Mourelle",
+    "email": "danilomourelle@outlook.com",
+    "url": "https://portfolio.danilomourelle.vercel.app/"
+  },
+  "contributors": [],
+  "homepage": "https://github.com/danilomourelle/Estudos#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danilomourelle/Estudos.git"
+  },
+  "bugs": {
+    "url": "https://github.com/danilomourelle/Estudos/issues"
+  },
+  "keywords": [
+    "Estudo",
+    "JavaScript",
+    "TypeScript",
+    "Exemplos",
+    "Boilerplate",
+    "Lint",
+    "Express",
+    "Sentry"
+  ],
+  "license": "MIT",
+  "private": true,
+  "engines": {
+    "node": ">= 12.19.0",
+    "npm": ">= 6.14.8",
+    "vscode": "^1.22.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@types/node": "^14.11.5",
+    "chalk": "^2.4.2",
+    "cowsay": "^1.4.0"
+  }
+}
