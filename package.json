@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Repo para aprendizado avançado de ferramentas corporativas de back-end para NodeJS",
   "main": "index.js",
+  "type": "module",
   "author": {
     "name": "Danilo Mourelle",
     "email": "danilomourelle@outlook.com",
@@ -39,7 +40,7 @@
   },
   "dependencies": {
     "@types/node": "^14.11.5",
-    "chalk": "^2.4.2",
+    "chalk": "^4.1.0",
     "cowsay": "^1.4.0"
   }
 }
